@@ -56,49 +56,11 @@ The project also includes evaluation tools for analyzing retrieval performance a
 
 ## RAG Architecture
 
-```text
-                  USER DOCUMENTS
-                 PDF / DOCX / TXT
-                        |
-                        v
-                Document Ingestion
-                        |
-                        v
-                 Text Extraction
-                        |
-                        v
-                  Text Chunking
-                        |
-                        v
-              Sentence Transformers
-                all-MiniLM-L6-v2
-                        |
-                        v
-                   FAISS Index
-                        |
-                        |
-USER QUESTION           |
-      |                 |
-      v                 |
-Question Embedding      |
-      |                 |
-      +-----------------+
-                        |
-                        v
-                Semantic Retrieval
-                        |
-                        v
-               Relevant Text Chunks
-                        |
-                        v
-                  RAG Prompt
-                        |
-                        v
-                Qwen 2.5 via Ollama
-                        |
-                        v
-              Answer + Source Citations
-```
+<p align="center">
+  <img src="assets/rag_architecture.png"
+       alt="DocMind AI RAG Architecture"
+       width="85%">
+</p>
 
 ## Project Structure
 
