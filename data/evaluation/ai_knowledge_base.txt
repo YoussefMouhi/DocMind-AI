@@ -1,0 +1,29 @@
+ARTIFICIAL INTELLIGENCE
+Artificial Intelligence is the field of computer science focused on developing systems capable of performing tasks that normally require human intelligence. AI applications include natural language processing, computer vision, recommendation systems, robotics, and predictive analytics.
+
+MACHINE LEARNING
+Machine Learning is a subset of artificial intelligence that enables computers to learn patterns from data. Supervised learning uses labeled examples to predict outcomes. Unsupervised learning discovers patterns in unlabeled data. Reinforcement learning trains agents through rewards and interactions with an environment.
+
+DEEP LEARNING
+Deep Learning uses neural networks containing multiple layers to learn complex representations. Deep learning architectures include convolutional neural networks, recurrent neural networks, and transformers. These models are widely used in image recognition, speech processing, and language understanding.
+
+NATURAL LANGUAGE PROCESSING
+Natural Language Processing enables computers to analyze and generate human language. NLP applications include sentiment analysis, machine translation, text classification, information extraction, and question answering.
+
+TRANSFORMERS
+Transformers are neural network architectures based on attention mechanisms. Self-attention allows a model to identify relationships between different tokens in a sequence. Transformer architectures are widely used in modern language models.
+
+RETRIEVAL-AUGMENTED GENERATION
+Retrieval-Augmented Generation combines information retrieval with language model generation. A RAG system retrieves relevant document passages and provides them as context to a language model. This helps generate answers grounded in external knowledge.
+
+VECTOR EMBEDDINGS
+Vector embeddings represent text, images, or other information as numerical vectors. Semantically related content often has similar vector representations. Embeddings enable semantic search, document clustering, and recommendation systems.
+
+VECTOR DATABASES
+Vector databases store and search high-dimensional embeddings. FAISS is a library designed for efficient similarity search over dense vectors. It can retrieve the nearest vectors to a query embedding.
+
+MODEL EVALUATION
+Machine learning models can be evaluated using metrics appropriate to their task. Classification metrics include precision, recall, and F1-score. Regression metrics include MAE and RMSE. Information retrieval systems can be evaluated using Precision@K, Recall@K, and Mean Reciprocal Rank.
+
+AI HALLUCINATIONS
+A hallucination occurs when a language model generates unsupported or incorrect information. Retrieval-Augmented Generation can reduce hallucinations by supplying relevant evidence, but it does not guarantee factual accuracy.

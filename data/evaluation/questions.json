@@ -1,0 +1,176 @@
+[
+  {
+    "question": "What is artificial intelligence?",
+    "relevant_ids": [
+      0
+    ]
+  },
+  {
+    "question": "Which applications of AI are mentioned in the document?",
+    "relevant_ids": [
+      0
+    ]
+  },
+  {
+    "question": "What is machine learning?",
+    "relevant_ids": [
+      1
+    ]
+  },
+  {
+    "question": "How does supervised learning work?",
+    "relevant_ids": [
+      1
+    ]
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "relevant_ids": [
+      1
+    ]
+  },
+  {
+    "question": "How does reinforcement learning train agents?",
+    "relevant_ids": [
+      1
+    ]
+  },
+  {
+    "question": "What is deep learning?",
+    "relevant_ids": [
+      2
+    ]
+  },
+  {
+    "question": "Which neural network architectures are mentioned?",
+    "relevant_ids": [
+      2
+    ]
+  },
+  {
+    "question": "What is natural language processing?",
+    "relevant_ids": [
+      3
+    ]
+  },
+  {
+    "question": "Which applications of NLP are described?",
+    "relevant_ids": [
+      3
+    ]
+  },
+  {
+    "question": "What are transformers?",
+    "relevant_ids": [
+      4
+    ]
+  },
+  {
+    "question": "What is the role of self-attention?",
+    "relevant_ids": [
+      4
+    ]
+  },
+  {
+    "question": "What is Retrieval-Augmented Generation?",
+    "relevant_ids": [
+      5
+    ]
+  },
+  {
+    "question": "How does RAG combine retrieval and generation?",
+    "relevant_ids": [
+      5
+    ]
+  },
+  {
+    "question": "Why does RAG use external knowledge?",
+    "relevant_ids": [
+      5
+    ]
+  },
+  {
+    "question": "What are vector embeddings?",
+    "relevant_ids": [
+      6
+    ]
+  },
+  {
+    "question": "Why do semantically related texts have similar embeddings?",
+    "relevant_ids": [
+      6
+    ]
+  },
+  {
+    "question": "Which applications use vector embeddings?",
+    "relevant_ids": [
+      6
+    ]
+  },
+  {
+    "question": "What are vector databases?",
+    "relevant_ids": [
+      7
+    ]
+  },
+  {
+    "question": "What is FAISS?",
+    "relevant_ids": [
+      7
+    ]
+  },
+  {
+    "question": "How does FAISS perform similarity search?",
+    "relevant_ids": [
+      7
+    ]
+  },
+  {
+    "question": "What is model evaluation?",
+    "relevant_ids": [
+      8
+    ]
+  },
+  {
+    "question": "Which metrics evaluate classification models?",
+    "relevant_ids": [
+      8
+    ]
+  },
+  {
+    "question": "Which metrics evaluate regression models?",
+    "relevant_ids": [
+      8
+    ]
+  },
+  {
+    "question": "Which metrics evaluate information retrieval?",
+    "relevant_ids": [
+      8
+    ]
+  },
+  {
+    "question": "What is an AI hallucination?",
+    "relevant_ids": [
+      9
+    ]
+  },
+  {
+    "question": "Can RAG completely eliminate hallucinations?",
+    "relevant_ids": [
+      9
+    ]
+  },
+  {
+    "question": "What is the capital of Mars?",
+    "relevant_ids": []
+  },
+  {
+    "question": "What does the document say about quantum teleportation?",
+    "relevant_ids": []
+  },
+  {
+    "question": "Who won the 2050 FIFA World Cup?",
+    "relevant_ids": []
+  }
+]
